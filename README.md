@@ -19,7 +19,7 @@ from selenium .webdriver.common.by import By
  ``` python
     driver = webdriver.Chrome()
     driver.get("https://typekadeh.com")
----
+```
 ### We use `XPATH` to continue writing the code and complete it.
 the base form of using xpath in this code is:
 ``` python 
