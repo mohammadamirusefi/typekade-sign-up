@@ -16,7 +16,7 @@ import time
 from selenium .webdriver.common.by import By
 ```
 ### We need to do step to open the site
-- ``` python
+ ``` python
     driver = webdriver.Chrome()
     driver.get("https://typekadeh.com")
 ---
