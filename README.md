@@ -6,6 +6,7 @@ This project is an **automation script** built with **Python** and **Selenium** 
 
 It opens the website in a browser, fills in the registration form (name, email, password, etc.), and submits it automatically — just like a real user would.
 
+It was created for learning purposes — to explore web automation and browser control with Python.
 ---
 
 ##  basic tips
